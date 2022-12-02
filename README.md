@@ -1,16 +1,4 @@
 # tododolist
 
-A new Flutter project.
+![WhatsApp Video 2022-12-01 at 22 56 37](https://user-images.githubusercontent.com/53630327/205198052-e35b25aa-a267-4586-9087-2c6222c9a000.gif)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
